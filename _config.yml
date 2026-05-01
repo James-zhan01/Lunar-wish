@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Lingwei Ceramics – Direct Factory from Chaozhou, China'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -14,7 +14,7 @@ home:
   limit_services: 6
 
 collections:
-  services:
+  products:
     output: true
     sort_by: weight
   team:
