@@ -23,9 +23,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "products"
     values:
-      layout: "service"
+      layout: "product"       # 产品详情页使用 product 布局
   - scope:
       path: ""
       type: "team"
